@@ -1,2 +1,2 @@
 # hello-world
-Repository to understand
+Repository to understand git
